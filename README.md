@@ -21,4 +21,10 @@
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Taylor-Python" height="30" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</div>
+    </div>
+  
+  <div>
+    
+ ![Snake animation](https://github.com/olirrvt/olirrvt/blob/output/github-contribution-grid-snake.svg)
+    
+ </div>
