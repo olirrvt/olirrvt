@@ -1,8 +1,14 @@
-## Olá! Eu sou o Taylor!
 
-- 🧠 Estudante de Desenvolvimento FullStack
-- 📩 taylorso2004@hotmail.com
-- 😀 (Ele/Dele)
+# Olá, eu sou o Taylor! 👋
+
+
+🧠 Estou estudando para ser um desenvolvedor fullstack.
+
+📫 Para entrar em contato comigo: taylorso2004@hotmail.com.
+
+😄 Pronome: Ele/Dele.
+
+## 🥸 Estatisticas
 
 <div align="center">
   <a href="https://github.com/olirrvt">
@@ -10,14 +16,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olirrvt&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  ##
+## 🤖 Tecnologias
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Taylor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="RTaylor-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Taylor-react" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Taylor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="RTaylor-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+   <img align="center" alt="RTaylor-node" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Taylor-react" height="35" width="45"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Taylor-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="RTaylor-html" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="RTaylor-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Taylor-Css" height="30" width="40" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -27,7 +33,7 @@
   <div>
   
   
-## 🔗 Links
+## 🤳 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taylor-oliveira-458384234/)
 
  </div>
