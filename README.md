@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Taylor!
 
-- 🧠 Atualmente estudando typescript, react, node.js, sequelize, mysql...
-- 👀 Gosto muito de observar e adquirir mais experiência...
-- 💻 Programador em desenvolvimento...
+- 🧠 Estudante de Desenvolvimento FullStack
+- 📩 taylorso2004@hotmail.com
+- 😀 (Ele/Dele)
 
 <div align="center">
   <a href="https://github.com/olirrvt">
