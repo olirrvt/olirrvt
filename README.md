@@ -2,7 +2,7 @@
 # Olá, eu sou o Taylor! 👋
 
 
-🧠 Estou estudando para ser um desenvolvedor fullstack.
+🧠 Estudando atualmente TypeScript e React
 
 📫 Para entrar em contato comigo: taylorso2004@hotmail.com.
 
