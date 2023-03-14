@@ -21,7 +21,16 @@
 <br/>
 <br/>
 <br/>
-  
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/100844800/224990038-75a10f7e-1ad8-43b8-9d30-3ca6d511d1f7.png" width="36%"/>
+  <img src="https://user-images.githubusercontent.com/100844800/224990926-6e39cc10-6d43-4c7b-90fb-70ba1ecbe425.png" width="35%"/>
+</div>
+
+<br/>
+<br/>
+<br/>
+
 <div align="center"> 
   <a href="https://instagram.com/olirrvt_" target="_blank"><img style="border-radius: 30px" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
   <a href = "mailto:cmp.1a.taylorso2004@hotmail.com"> 
