@@ -14,7 +14,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=olirrvt&show_icons=true&count_private=true&hide_border=true&title_color=07B43A&icon_color=07B43A&text_color=fff&bg_color=0000" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=olirrvt&show_icons=true&count_private=true&hide_border=true&title_color=07B43A&icon_color=07B43A&text_color=fff&bg_color=0000" alt="Taylor-Oliveira-Stats" />
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olirrvt&layout=compact&hide_border=true&title_color=07B43A&text_color=fff&bg_color=0000" />
 </div>
 
