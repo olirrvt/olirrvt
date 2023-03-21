@@ -1,21 +1,21 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07B43A&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=896DF1&height=120&section=header"/>
 
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'am+Taylor+Oliveira;I'm+18+years+old;I'm+from+Brazil;I+Graduating+Analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=olirrvt&bg_color=000000&color=07b43a&line=05c73f&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=olirrvt&bg_color=000000&color=896DF1&line=896DF1&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<!-- <div align="center">
+<br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{olirrvt}/count.svg" /></p> 
 <br>
 </div>
-
+ -->
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=olirrvt&show_icons=true&count_private=true&hide_border=true&title_color=07B43A&icon_color=07B43A&text_color=fff&bg_color=0000" alt="Taylor-Oliveira-Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olirrvt&layout=compact&hide_border=true&title_color=07B43A&text_color=fff&bg_color=0000" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=olirrvt&show_icons=true&count_private=true&hide_border=true&title_color=896DF1&icon_color=896DF1&text_color=fff&bg_color=0000" alt="Taylor-Oliveira-Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olirrvt&layout=compact&hide_border=true&title_color=896DF1&text_color=fff&bg_color=0000" />
 </div>
 
 <br/>
@@ -40,4 +40,4 @@
 </div>
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07B43A&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=896DF1&height=120&section=footer"/>
