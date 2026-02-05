@@ -13,11 +13,6 @@
 </div>
  -->
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=olirrvt&show_icons=true&count_private=true&hide_border=true&title_color=896DF1&icon_color=896DF1&text_color=fff&bg_color=0000" alt="Taylor-Oliveira-Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olirrvt&layout=compact&hide_border=true&title_color=896DF1&text_color=fff&bg_color=0000" />
-</div>
-
 <br/>
 <br/>
 <br/>
